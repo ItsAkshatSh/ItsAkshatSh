@@ -50,7 +50,6 @@
 
 <br clear="both">
 
-![snake animation](https://github.com/<seu ItsAkshatSh>/<seu ItsAkshatSh>/blob/output/github-contribution-grid-snake2.svg)
 
 ###
 
