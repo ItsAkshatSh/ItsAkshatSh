@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Akshat and I'm a coder??, from Dubai</h2>
+<h2 align="left">Hello there! I am just a friendly neighborhood coder 🕷️🕸️</h2>
 
 ###
 
@@ -44,18 +44,15 @@
   <a href="https://www.linkedin.com/in/akshat-sharma-9aaa442b2/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <a href="https://akshatexe.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=githubpages&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
+  </a>
 </div>
 
 ###
 
 <br clear="both">
 
-
-###
-
-<h4 align="left">Hello there! I am just a friendly neighborhood coder 🕷️🕸️</h4>
-
-###
 
 <div align="center">
   <a href="https://open.spotify.com/user/31wdtishcujpgv47o2y4ip3vvaba">
