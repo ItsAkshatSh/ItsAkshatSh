@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22pfp-real.jpg%22%2C%22type%22%3A%22image%2Fjpeg%22%2C%22signedurl_expire%22%3A%222028-05-11T08%3A21%3A26.959Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2Ff8f85ac7ab9e48f7%2Fpfp-real.jpg%3FExpires%3D1841646087%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DUKYePRfItQaqL4JJ8dxvWaLlgcxbRu1247iuHpn0UGy8Cq5tJKK2xD0ua5~kH6vxXsjkVBQJQ6Q4gG3V8IW2Gm09iwl1d3V67kcHGbCQd5CWqID1-pptcEjRXjHg3auQF8by8W38ZZftksxHIqq2x3~xaNLntB2eo5crk0e2I6NFjdbUmYEPb4tcvx8cimve36nHBOjBlQ2IjGLj9x2DPbNF0uEbMxSz~AFJBEjozoLGBuVxs9UPuCq9uDHq2zSZK0q2n5CsFBDhlYQAR~C50zOJOTp609bYrNLSnQjbKESqPgRC-jvpMkCZfOIcuSpu~jmGuGN~W1vR4oQwjVpf~g__%22%7D"  />
+<img align="right" height="150" src="https://raw.githubusercontent.com/ItsAkshatSh/ItsAkshatSh/main/assets/pfp-real.jpg" />
 
 ###
 
