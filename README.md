@@ -9,7 +9,8 @@
 
 ###
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/ItsAkshatSh/ItsAkshatSh/main/assets/pfp-real.jpg" />
+<img align="right" height="150" src="https://raw.githubusercontent.com/ItsAkshatSh/ItsAkshatSh/main/assets/pfp-real.png" />
+
 
 ###
 
