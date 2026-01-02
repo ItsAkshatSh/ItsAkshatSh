@@ -2,14 +2,13 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ItsAkshatSh&theme=dracula&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&token=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" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ItsAkshatSh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="151" alt="languages graph"  />
-</div>
+<p align="left">
+  <img src="https://githubcard.com/ItsAkshatSh.svg?d=Tpofbrwf" alt="Akshat GitHub Card" />
+</p>
 
 ###
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/ItsAkshatSh/ItsAkshatSh/main/assets/pfp-real.png" />
+<img align="right" height="150" src="https://raw.githubusercontent.com/ItsAkshatSh/ItsAkshatSh/refs/heads/main/assets/pfp-real.png" />
 
 
 ###
