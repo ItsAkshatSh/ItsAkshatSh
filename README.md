@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-  <img src="https://githubcard.com/ItsAkshatSh.svg?d=UyYrCEck" alt="Akshat GitHub Card" />
+  <img src="https://githubcard.com/ItsAkshatSh.svg?d=UyYrCEck?d=designId" alt="Akshat GitHub Card" />
 </p>
 
 
